@@ -1,9 +1,8 @@
 # Site settings
-title: My Blog
-email: coolwebconfs@gmail.com
-description: My simple blog.
-baseurl: ""
-url: ""
+title: Travel blog
+email: ahmadalkassar@gmail.com
+description: My first blog.
+baseurl: "/travel-blog"
 twitter_username: 
 avatar: "" # Set footer avatar
 paginate: 3
@@ -19,8 +18,8 @@ defaults:
       path: ""
       type: "posts"
     values:
-      author: "My Author" # Set default author name
-      categories: "cats"
+      author: "Ahmad" # Set default author name
+      categories: "Places"
       layout: "post"
       comments: true
   -
